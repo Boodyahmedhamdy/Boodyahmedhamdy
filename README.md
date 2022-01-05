@@ -1,8 +1,26 @@
-- 👋 Hi, I’m Abdelrahman Ahmed a **Computer Science Student**
+# 👋 Hi
+I’m Abdelrahman Ahmed a **Computer Science Student**
 
 ## 👀 I’m interested in ...
-* 
-- 🌱 I’m currently learning ...
+* AI
+* Machine Learning
+* Data Science
+* **Any thing Except Game Development** ❌
+* Learning New Technologies
+
+## 🌱 I’m currently learning ...
+### From Collage
+* Java *as OOP*
+* Data Structure using **C** 
+
+
+### From Myself
+* Data Science With Python
+* JavaFX *as GUI*
+* Git using Github
+* SQL Server *as dataBase concept*
+
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
