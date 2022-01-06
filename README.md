@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abdelrahman Ahmed
-I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
+I’m a **Computer Science Student** in 2nd year in collage
 
 ## 👀 I’m interested in ...
 * AI
