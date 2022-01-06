@@ -18,7 +18,7 @@ I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 
 ### From Myself
 * **Python** For Data Science
-* JavaFX *as GUI*
+* JavaFX *for GUI*
 * Git using Github
 * SQL Server 
 * Problem Solving in **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
@@ -30,10 +30,9 @@ I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 ### languages and Tools
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" align="left"> 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" align="left"> 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="40" align="left">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40" align="left">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40">
 
 * Python
