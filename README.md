@@ -25,7 +25,9 @@ I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 
 
 ## Skills and Experiance
-### programming languages
+### languages and Tools
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40">
+
 * Python
 * Java
 * C
@@ -35,6 +37,7 @@ I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40">
 <!---
 Boodyahmedhamdy/Boodyahmedhamdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
