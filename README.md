@@ -48,7 +48,10 @@ I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 * Making More Projects
 * Collaborate With People To Make Projects
 * Participate In Coding Compititions
-* 
+* Improving my Skills
+* Get an Internship
+
+
 
 
 - 💞️ I’m looking to collaborate on ...
