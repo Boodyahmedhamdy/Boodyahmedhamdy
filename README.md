@@ -22,7 +22,7 @@ I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 * Git using Github
 * SQL Server 
 * Problem Solving in **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
-* Speed Typing in 10fastfingers .. [See my Progress](https://10fastfingers.com/user/2699764/)
+* Speed Typing in **10fastfingers** .. [See my Progress](https://10fastfingers.com/user/2699764/)
 
 
 ## Skills and Experiance
@@ -41,6 +41,15 @@ I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 * C
 * C++
 * HTML, CSS
+
+
+## Looking Forward To
+
+* Making More Projects
+* Collaborate With People To Make Projects
+* Participate In Coding Compititions
+* 
+
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
