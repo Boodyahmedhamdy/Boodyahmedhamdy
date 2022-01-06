@@ -1,12 +1,13 @@
-# 👋 Hi
-I’m Abdelrahman Ahmed a **Computer Science Student**
+# 👋 Hi, I'm Abdelrahman Ahmed
+I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 
 ## 👀 I’m interested in ...
 * AI
 * Machine Learning
 * Data Science
-* **Any thing Except Game Development** ❌
 * Learning New Technologies
+* **Any thing Except Game Development** ❌
+
 
 ## 🌱 I’m currently learning ...
 ### From Collage
@@ -19,7 +20,7 @@ I’m Abdelrahman Ahmed a **Computer Science Student**
 * JavaFX *as GUI*
 * Git using Github
 * SQL Server *as dataBase concept*
-* Problem Solvint in **Hacker Rnak** .. See [my Profile](https://www.hackerrank.com/abdelrahmanahm15)
+* Problem Solving in **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
 
 
 - 💞️ I’m looking to collaborate on ...
