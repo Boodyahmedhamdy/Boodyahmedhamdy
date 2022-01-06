@@ -16,12 +16,21 @@ I’m Abdelrahman Ahmed a **Computer Science Student** in 2nd year in collage
 
 
 ### From Myself
-* Data Science With Python
+* **Python** For Data Science
 * JavaFX *as GUI*
 * Git using Github
 * SQL Server *as dataBase concept*
 * Problem Solving in **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
+* Speed Writing in 10fastfingers .. [See my Progress](https://10fastfingers.com/user/2699764/)
 
+
+## Skills and Experiance
+### programming languages
+* Python
+* Java
+* C
+* C++
+* HTML, CSS
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
