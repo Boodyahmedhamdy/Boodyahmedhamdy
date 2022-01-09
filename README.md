@@ -35,6 +35,9 @@ I’m a **Computer Science Student** in 2nd year in collage
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40">
 
 
+### Work Or Training Experience 
+* NOT YET 😋😋
+----
 ## What I'm Doing Too ⚒
 
 * Solve Problems on **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
@@ -50,6 +53,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Get an Internship
 * Learn JS
 
+## Some Data About Github Account
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodyahmedhamdy&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
