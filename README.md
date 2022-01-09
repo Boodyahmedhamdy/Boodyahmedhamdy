@@ -21,9 +21,6 @@ I’m a **Computer Science Student** in 2nd year in collage
 * JavaFX *for GUI*
 * Git using Github
 * SQL Server 
-* Problem Solving in **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
-* Speed Typing in **10fastfingers** .. [See my Progress](https://10fastfingers.com/user/2699764/)
-
 
 ## Skills and Experiance
 
@@ -38,6 +35,12 @@ I’m a **Computer Science Student** in 2nd year in collage
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40">
 
 
+## What I'm Doing Too ⚒
+
+* Solve Problems on **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
+* Improve Typing Speed on **10fastfingers** .. [See my Progress](https://10fastfingers.com/user/2699764/)
+* Write Some Posts on **Hashnode** .. [Visit my Blog](https://boodyahmedhamdy.hashnode.dev/)
+
 ## Looking Forward To
 
 * Making More Projects
@@ -46,7 +49,6 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Improving my Skills
 * Get an Internship
 * Learn JS
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodyahmedhamdy&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
