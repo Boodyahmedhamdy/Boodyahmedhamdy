@@ -34,9 +34,9 @@ I’m a **Computer Science Student** in 2nd year in collage
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40">
 
-
+<!-- 
 ### Work Or Training Experience 
-* NOT YET 😋😋
+* NOT YET 😋😋 -->
 ----
 ## What I'm Doing Too ⚒
 
