@@ -29,7 +29,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="40" align="left">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40" align="left">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40" align="left" style="padding:10px;">
 <img src="https://github.com/Boodyahmedhamdy/Boodyahmedhamdy/blob/main/cmder.ico" width="40" align="left">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40">
@@ -40,7 +40,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 ----
 ## What I'm Doing Too ⚒
 
-* Solve Problems on **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
+* Solve Problems on **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15).. <a href="https://www.hackerrank.com/abdelrahmanahm15" target="_blank">see my profile</a>
 * Improve Typing Speed on **10fastfingers** .. [See my Progress](https://10fastfingers.com/user/2699764/)
 * Write Some Posts on **Hashnode** .. [Visit my Blog](https://boodyahmedhamdy.hashnode.dev/)
 
