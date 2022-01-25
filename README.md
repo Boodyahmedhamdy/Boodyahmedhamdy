@@ -53,6 +53,12 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Get an Internship
 * Learn JS
 
+
+## How To Reach Me 📞
+* **Twitter** : [Twitter](https://twitter.com/BoodyAhmedHamdy)
+* **Linked in** : [Linked in](https://www.linkedin.com/in/abdelrahman-ahmed-a978ba205/)
+
+
 ## Some Data About Github Account
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodyahmedhamdy&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
