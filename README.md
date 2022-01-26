@@ -55,6 +55,9 @@ I’m a **Computer Science Student** in 2nd year in collage
 
 
 ## How To Reach Me 📞
+<a href="https://twitter.com/BoodyAhmedHamdy" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="40" align="left"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-ahmed-a978ba205/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" align="left"/></a>
+<a href="https://www.hackerrank.com/abdelrahmanahm15" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" align="left"/></a>
 * **Twitter** : [Twitter](https://twitter.com/BoodyAhmedHamdy)
 * **Linked in** : [Linked in](https://www.linkedin.com/in/abdelrahman-ahmed-a978ba205/)
 
