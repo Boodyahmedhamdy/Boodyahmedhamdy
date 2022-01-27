@@ -8,7 +8,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Learning New Technologies
 * **Any thing Except Game Development** ❌
 
-## Currently Working On 👷🏼‍♂️
+## 👷🏼‍♂️ Currently Working On 
 - [Eventus](https://github.com/Boodyahmedhamdy/Eventus)
 
 ## 🌱 I’m currently learning ...
@@ -40,7 +40,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 ### Work Or Training Experience 
 * NOT YET 😋😋 -->
 ----
-## What I'm Doing Too ⚒
+## ⚒ What I'm Doing Too 
 
 * Solve Problems on **Hacker Rnak** .. [See my Profile](https://www.hackerrank.com/abdelrahmanahm15)
 * Improve Typing Speed on **10fastfingers** .. [See my Progress](https://10fastfingers.com/user/2699764/)
@@ -56,7 +56,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Learn JS
 
 
-## How To Reach Me 📞
+## 📞 How To Reach Me 
 <a href="https://twitter.com/BoodyAhmedHamdy" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="40" align="left"/></a>
 <a href="https://www.linkedin.com/in/abdelrahman-ahmed-a978ba205/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" align="left"/></a>
 <a href="https://www.hackerrank.com/abdelrahmanahm15" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" align="left"/></a>
