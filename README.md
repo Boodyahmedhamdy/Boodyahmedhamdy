@@ -27,8 +27,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 ### From Myself
 * **Python** For Data Science using **Pandas**
 * JavaFX *for GUI*
-* Git using Github
-* SQL Server 
+* Advanced Stuff about SQL Server 
 
 ## Skills and Experiance
 
