@@ -3,6 +3,10 @@
 # 👋 Hi, I'm Abdelrahman Ahmed
 I’m a **Computer Science Student** in 2nd year in collage
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=boodyahmedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="boodyahmedhamdy" /> </p>
+
+<p align="left"> <a href="https://twitter.com/boodyahmedhamdy" target="blank"><img src="https://img.shields.io/twitter/follow/boodyahmedhamdy?logo=twitter&style=for-the-badge" alt="boodyahmedhamdy" /></a> </p>
+
 ## 👀 I’m interested in ...
 * AI
 * Machine Learning
