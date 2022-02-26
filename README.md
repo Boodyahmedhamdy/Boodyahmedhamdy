@@ -19,15 +19,14 @@ I’m a **Computer Science Student** in 2nd year in collage
 
 ## 🌱 I’m currently learning ...
 ### From Collage
-* Java *as OOP*
-* Data Structure using **C** 
-* Data Base using **SQL Server**
+* PHP for backend Development
+* Algorithm
+* Ubuntu *for operating system*
 
 
 ### From Myself
 * **Python** For Data Science using **Pandas**
-* JavaFX *for GUI*
-* Advanced Stuff about SQL Server 
+* Advanced Stuff about **SQL Server** 
 * **Data Structure Using C++** check the Repo From [Here](https://github.com/Boodyahmedhamdy/RealDataStructure)
 
 ## Skills and Experiance
