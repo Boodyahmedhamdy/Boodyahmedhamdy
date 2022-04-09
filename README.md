@@ -16,6 +16,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 
 ## 👷🏼‍♂️ Currently Working On 
 - [Eventus](https://github.com/Boodyahmedhamdy/Eventus)
+- [Edume](https://github.com/Boodyahmedhamdy/Edume)
 
 ## 🌱 I’m currently learning ...
 ### From Collage
