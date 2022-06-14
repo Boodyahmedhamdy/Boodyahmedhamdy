@@ -14,20 +14,17 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Learning New Technologies
 * **Any thing Except Game Development** ❌
 
-## 👷🏼‍♂️ Currently Working On 
-- [Edume](https://github.com/Boodyahmedhamdy/Edume)
+<!-- ## 👷🏼‍♂️ Currently Working On 
+- [Edume](https://github.com/Boodyahmedhamdy/Edume) -->
+
 
 ## 🌱 I’m currently learning ...
-### From Collage
-* PHP for backend Development
-* Algorithm
-* Ubuntu *for operating system*
 
-
-### From Myself
-* **Python** For Data Science using **Pandas**
+* **JS**
+* **Kotlin**
 * Advanced Stuff about **SQL Server** 
-* **Data Structure Using C++** check the Repo From [Here](https://github.com/Boodyahmedhamdy/RealDataStructure)
+
+
 
 ## Skills and Experiance
 
@@ -58,7 +55,6 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Participate In Coding Compititions
 * Improving my Skills
 * Get an Internship
-* Learn JS
 
 
 ## 📞 How To Reach Me 
