@@ -21,7 +21,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 ## 🌱 I’m currently learning ...
 
 * **JS** see Progress in <a href="https://github.com/Boodyahmedhamdy/JS-Bootcamp" target="_blank">JS-Bootcamp Repository</a>
-* **Kotlin** see Progress in <a href="https://github.com/Boodyahmedhamdy/Kotlin-Bootcamp" target="_blank">JS-Bootcamp Repository</a>
+* **Kotlin** see Progress in <a href="https://github.com/Boodyahmedhamdy/Kotlin-Bootcamp" target="_blank">Kotlin-Bootcamp Repository</a>
 * Advanced Stuff about **SQL Server** 
 
 
