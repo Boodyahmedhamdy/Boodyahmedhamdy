@@ -1,5 +1,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=boodyahmedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="boodyahmedhamdy" /> </p> -->
 
+
+
 # 👋 Hi, I'm Abdelrahman Ahmed
 I’m a **Computer Science Student** in 2nd year in collage
 
@@ -84,6 +86,10 @@ I’m a **Computer Science Student** in 2nd year in collage
 <br>
 
 ## Some Data About Github Account
+
+<div align="center">
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com?user=Boodyahmedhamdy&theme=buefy-dark"/>
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodyahmedhamdy&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
