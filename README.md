@@ -1,9 +1,16 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=boodyahmedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="boodyahmedhamdy" /> </p> -->
 
 
+<!-- strick badge start -->
+<div align="center">
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com?user=Boodyahmedhamdy&theme=buefy-dark"/>
+</div>
+<!-- strick badge start -->
 
+<!-- name and who i am start -->
 # 👋 Hi, I'm Abdelrahman Ahmed
 I’m a **Computer Science Student** in 2nd year in collage
+<!-- name and who i am end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boodyahmedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="boodyahmedhamdy" /> </p>
 
@@ -87,9 +94,7 @@ I’m a **Computer Science Student** in 2nd year in collage
 
 ## Some Data About Github Account
 
-<div align="center">
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com?user=Boodyahmedhamdy&theme=buefy-dark"/>
-</div>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodyahmedhamdy&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
