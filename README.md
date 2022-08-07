@@ -59,14 +59,16 @@ I’m a **Computer Science Student** in 2nd year in collage
 ## Skills and Experiance
 
 ### languages and Tools
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" align="left"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" align="left"> 
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" align="left"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="40" align="left">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40" align="left">
-<img src="https://github.com/Boodyahmedhamdy/Boodyahmedhamdy/blob/main/cmder.ico" width="40" align="left">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left">
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" align="left"> <!-- python -->
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" align="left"> <!-- java -->
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" align="left"> <!-- C++ -->
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="40" align="left"> <!-- python -->
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40" align="left"> <!-- python -->
+<img src="https://github.com/Boodyahmedhamdy/Boodyahmedhamdy/blob/main/cmder.ico" width="40" align="left"> <!-- Cmder -->
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left"> <!-- Git -->
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40" align="left"> <!-- Github -->
+<img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width="40" align="left"> <!-- Kotlin -->
+<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40"> <!-- JS -->
 
 <!-- 
 ### Work Or Training Experience 
