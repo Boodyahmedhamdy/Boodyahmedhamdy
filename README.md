@@ -23,6 +23,9 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Learning New Technologies
 * **Any thing Except Game Development** ❌
 
+## Currently Learning
+* Android Development with Kotlin
+
 ## 👷🏼‍♂️ Currently Working On 
 <a href="https://github.com/Boodyahmedhamdy/Note-My-Note" target="_blank"> 
   <img src="https://github.com/Boodyahmedhamdy/Note-My-Note/blob/main/Note-My-Note-banner.jpg?raw=true" width="400">
