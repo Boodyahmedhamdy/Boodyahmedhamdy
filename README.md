@@ -23,15 +23,14 @@ I’m a **Computer Science Student** in 2nd year in collage
 * Learning New Technologies
 * **Any thing Except Game Development** ❌
 
-## Currently Learning
-* Android Development with Kotlin
-
 ## 👷🏼‍♂️ Currently Working On 
 <a href="https://github.com/Boodyahmedhamdy/Note-My-Note" target="_blank"> 
   <img src="https://github.com/Boodyahmedhamdy/Note-My-Note/blob/main/Note-My-Note-banner.jpg?raw=true" width="400">
 </a>
 
 ## 🌱 I’m currently learning ..
+
+Android Development with Kotlin
 
 <div style="display:inline-block; text-align:center; margin:auto;">
   <p>
@@ -46,7 +45,8 @@ I’m a **Computer Science Student** in 2nd year in collage
    </p>
 </div>
 
-<div style="display:inline-block; text-align:center"; margin:auto;>
+<!-- Kotlin -->
+<!-- <div style="display:inline-block; text-align:center"; margin:auto;>
   <p>
       <a display="block" href="https://github.com/Boodyahmedhamdy/Kotlin-Bootcamp" text-align="center">
         <img src="https://github.com/Boodyahmedhamdy/ImagesRepo/blob/main/Github/1.png?raw=true" alt="kotlin repo image" width="400" display="block">
@@ -57,7 +57,7 @@ I’m a **Computer Science Student** in 2nd year in collage
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boodyahmedhamdy&repo=Kotlin-Bootcamp" alt="repo data" width="400" display="block">
      </a>
    </p>
-</div>
+</div> -->
 
 ## Skills and Experiance
 
