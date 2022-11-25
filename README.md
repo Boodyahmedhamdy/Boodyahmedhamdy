@@ -110,5 +110,5 @@ Android Development with Kotlin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodyahmedhamdy&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boodyahmedhamdy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boodyahmedhamdy)](https://github.com/anuraghazra/github-readme-stats)
 
