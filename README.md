@@ -19,7 +19,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 ## 👀 I’m interested in ...
 * AI
 * Machine Learning
-* Android Development
+* **Android** Development
 * Learning New Technologies
 * **Any thing Except Game Development** ❌
 
