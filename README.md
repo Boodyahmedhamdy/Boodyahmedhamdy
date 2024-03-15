@@ -20,7 +20,7 @@ I’m a **Computer Science Student** in 4th and the last year in collage at Hela
 - [Twitter Clone](https://github.com/Boodyahmedhamdy/Twitter-Clone) a clone for Twitter app using jetpack compose. **Completed**
 
 - [Lunch Tray](https://github.com/Boodyahmedhamdy/lunchTray) a simutation for ordering food from a resturant. **Completed**
-- [Frogs App] (https://github.com/Boodyahmedhamdy/FrogsApp) a simple app that makes http requests to fetch data about Frogs **Completed**
+- [Frogs App](https://github.com/Boodyahmedhamdy/FrogsApp) a simple app that makes http requests to fetch data about Frogs **Completed**
 
 
 ## 👷🏼‍♂️ Currently Working On 
