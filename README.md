@@ -24,10 +24,9 @@ I’m a **Computer Science Student** in 4th and the last year in collage at Hela
 
 
 ## 👷🏼‍♂️ Currently Working On 
-- [Fazaker](https://github.com/Boodyahmedhamdy/Fazaker) for helping family to keep track of prays (فذكر) . **under active development**
+- [Password Manager](https://github.com/Boodyahmedhamdy/PasswordManager) password manager app that generates, save, rate and Control passwords just from your phone. **under active development**
 
-
-- [Gym-Nashaat](https://github.com/Boodyahmedhamdy/Gym-Nashaat) a gym management application to help Gym owners to manager players. **not completed yet**
+- [Fazaker](https://github.com/Boodyahmedhamdy/Fazaker) for helping family to keep track of prays (فذكر) . **under lazy development**
 
 ## 🌱 I’m currently learning ..
 
