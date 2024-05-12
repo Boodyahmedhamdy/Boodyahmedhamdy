@@ -17,6 +17,7 @@ I’m a **Computer Science Student** in 4th and the last year in collage at Hela
 * Building Useful and helpful software systems 🔨
 
 ## ✌ My Latest Projects
+- [Password Manager](https://github.com/Boodyahmedhamdy/PasswordManager) password manager app that generates, save, rate and Control passwords just from your phone
 - [Twitter Clone](https://github.com/Boodyahmedhamdy/Twitter-Clone) a clone for Twitter app using jetpack compose. **Completed**
 
 - [Lunch Tray](https://github.com/Boodyahmedhamdy/lunchTray) a simutation for ordering food from a resturant. **Completed**
