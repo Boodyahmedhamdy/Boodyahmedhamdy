@@ -78,11 +78,9 @@ Android Development with Kotlin with Jetpack Compose
 
 ## Looking Forward To
 
-* Making More Projects
-* Collaborate With People To Make Projects
-* Participate In Coding Compititions
-* Improving my Skills
-* Get an Internship
+* Building More Useful Projects
+* Collaborate With People To Build Projects
+* Get a Job as **Native Android Developer**
 
 
 ## 📞 How To Reach Me 
