@@ -5,7 +5,7 @@
 
 <!-- name and who i am start -->
 # 👋 Hi, I'm Abdelrahman Ahmed
-I’m a **Computer Science Student** in 4th and the last year in collage at Helawn University
+I’m a Fresh Graduate from **Computers and Artificial Intiligence** collage at Helwan University in Cairo
 <!-- name and who i am end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boodyahmedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="boodyahmedhamdy" /> </p>
@@ -17,7 +17,10 @@ I’m a **Computer Science Student** in 4th and the last year in collage at Hela
 * Building Useful and helpful software systems 🔨
 
 ## ✌ My Latest Projects
-- [Password Manager](https://github.com/Boodyahmedhamdy/PasswordManager) password manager app that generates, save, rate and Control passwords just from your phone
+
+- [Recipe App](https://github.com/ahmedtelbani/RecipeApp) **(ITI-Summer-Training Gradution Project)** A smart recipe app that leverages modern Android libraries such as Retrofit, Room, and Fragment Navigation. It offers seamless API integration, advanced data management, and intuitive navigation, delivering a polished and user-centric culinary experience. **Completed**
+
+- [Password Manager](https://github.com/Boodyahmedhamdy/PasswordManager) password manager app that generates, save, rate and Control passwords just from your phone **Completed**
 - [Twitter Clone](https://github.com/Boodyahmedhamdy/Twitter-Clone) a clone for Twitter app using jetpack compose. **Completed**
 
 - [Lunch Tray](https://github.com/Boodyahmedhamdy/lunchTray) a simutation for ordering food from a resturant. **Completed**
@@ -25,7 +28,8 @@ I’m a **Computer Science Student** in 4th and the last year in collage at Hela
 
 
 ## 👷🏼‍♂️ Currently Working On 
-- [Password Manager](https://github.com/Boodyahmedhamdy/PasswordManager) password manager app that generates, save, rate and Control passwords just from your phone. **under active development**
+
+- [Edrar Mobile](https://github.com/Boodyahmedhamdy/EdaraMobile) the android client for Edara **(project management system)**. **under Active Development**
 
 - [Fazaker](https://github.com/Boodyahmedhamdy/Fazaker) for helping family to keep track of prays (فذكر) . **under lazy development**
 
