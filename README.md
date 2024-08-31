@@ -18,10 +18,13 @@ I’m a Fresh Graduate from **Computers and Artificial Intiligence** collage at 
 
 ## ✌ My Latest Projects
 
-- [Recipe App](https://github.com/ahmedtelbani/RecipeApp) **(ITI-Summer-Training Gradution Project)** A smart recipe app that leverages modern Android libraries such as Retrofit, Room, and Fragment Navigation. It offers seamless API integration, advanced data management, and intuitive navigation, delivering a polished and user-centric culinary experience. **Completed**
 
-- [Password Manager](https://github.com/Boodyahmedhamdy/PasswordManager) password manager app that generates, save, rate and Control passwords just from your phone **Completed**
-- [Twitter Clone](https://github.com/Boodyahmedhamdy/Twitter-Clone) a clone for Twitter app using jetpack compose. **Completed**
+- ![](https://raw.githubusercontent.com/ahmedtelbani/RecipeApp/dev/media/RecipeApp.jpg) [Recipe App](https://github.com/ahmedtelbani/RecipeApp) **(ITI-Summer-Training Gradution Project)** A smart recipe app that leverages modern Android libraries such as Retrofit, Room, and Fragment Navigation. It offers seamless API integration, advanced data management, and intuitive navigation, delivering a polished and user-centric culinary experience. **Completed**
+
+- ![](https://github.com/Boodyahmedhamdy/PasswordManager/blob/master/media/preview/PasswordManagerImage.jpg?raw=true) [Password Manager](https://github.com/Boodyahmedhamdy/PasswordManager) password manager app that generates, save, rate and Control passwords just from your phone **Completed**
+
+  
+- ![](https://github.com/Boodyahmedhamdy/Twitter-Clone/raw/main/media/TwitterCloneImage.jpg) [Twitter Clone](https://github.com/Boodyahmedhamdy/Twitter-Clone) a clone for Twitter app using jetpack compose. **Completed**
 
 - [Lunch Tray](https://github.com/Boodyahmedhamdy/lunchTray) a simutation for ordering food from a resturant. **Completed**
 - [Frogs App](https://github.com/Boodyahmedhamdy/FrogsApp) a simple app that makes http requests to fetch data about Frogs **Completed**
