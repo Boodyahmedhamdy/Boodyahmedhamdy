@@ -5,7 +5,7 @@
 
 <!-- name and who i am start -->
 # 👋 Hi, I'm Abdelrahman Ahmed
-I’m a Fresh Graduate from **Computers and Artificial Intiligence** collage at Helwan University in Cairo
+I’m a **Fresh Graduate** from **Computers and Artificial Intiligence** collage at Helwan University in Cairo. I am also a **Native Android Developer**
 <!-- name and who i am end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boodyahmedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="boodyahmedhamdy" /> </p>
