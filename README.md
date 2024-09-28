@@ -18,7 +18,7 @@ I’m a **Fresh Graduate** from **Computers and Artificial Intiligence** collage
 
 ## ✌ My Latest Projects
 
-- ![](https://raw.githubusercontent.com/Boodyahmedhamdy/ODCAmitMealsApp/master/media/ODC-Meals-App.jpg) Graduation Project of **Orange Digital Center** Android Training with help of **Amit** company for 
+- ![](https://raw.githubusercontent.com/Boodyahmedhamdy/ODCAmitMealsApp/master/media/ODC-Meals-App.jpg) [Meals App](https://github.com/Boodyahmedhamdy/ODCAmitMealsApp) is the Graduation Project of **Orange Digital Center** Android Training with help of **Amit** company for 
 software courses
 
 - ![](https://raw.githubusercontent.com/ahmedtelbani/RecipeApp/dev/media/RecipeApp.jpg) [Recipe App](https://github.com/ahmedtelbani/RecipeApp) **(ITI-Summer-Training Gradution Project)** A smart recipe app that leverages modern Android libraries such as Retrofit, Room, and Fragment Navigation. It offers seamless API integration, advanced data management, and intuitive navigation, delivering a polished and user-centric culinary experience. **Completed**
