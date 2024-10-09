@@ -1,8 +1,5 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=boodyahmedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="boodyahmedhamdy" /> </p> -->
 
-
-
-
 <!-- name and who i am start -->
 # 👋 Hi, I'm Abdelrahman Ahmed
 I’m a **Fresh Graduate** from **Computers and Artificial Intiligence** collage at Helwan University in Cairo. I am also a **Native Android Developer**
@@ -97,6 +94,11 @@ Android Development with Kotlin with Jetpack Compose
 ## Some Data About Github Account
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodyahmedhamdy&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boodyahmedhamdy&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
+</a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boodyahmedhamdy)](https://github.com/anuraghazra/github-readme-stats)
 
