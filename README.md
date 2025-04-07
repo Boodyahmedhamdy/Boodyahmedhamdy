@@ -15,6 +15,9 @@ I’m a **Fresh Graduate** from **Computers and Artificial Intiligence** collage
 
 ## ✌ My Latest Projects
 
+- ![](https://raw.githubusercontent.com/Boodyahmedhamdy/Vertex/refs/heads/master/media/preview/1.jpg) [Mealano](https://github.com/Boodyahmedhamdy/Vertex) 
+Vertex is a weather forecasting app that provieds you by up-to-date data about any place in the world
+
 - ![](https://raw.githubusercontent.com/Boodyahmedhamdy/Mealano/refs/heads/master/media/finalMedia/1.jpg) [Mealano](https://github.com/Boodyahmedhamdy/Mealano) 
 Mealano is an Android application built using Java that helps users plan their meals efficiently. It provides features such as meal suggestions, searching by various criteria, favorite meal management, and integration with the mobile calendar.
 
