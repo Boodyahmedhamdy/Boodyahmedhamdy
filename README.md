@@ -15,7 +15,7 @@ I’m a **Fresh Graduate** from **Computers and Artificial Intiligence** collage
 
 ## ✌ My Latest Projects
 
-- ![](https://raw.githubusercontent.com/Boodyahmedhamdy/Vertex/refs/heads/master/media/preview/1.jpg) [Mealano](https://github.com/Boodyahmedhamdy/Vertex) 
+- ![](https://raw.githubusercontent.com/Boodyahmedhamdy/Vertex/refs/heads/master/media/preview/1.jpg) [Vertex](https://github.com/Boodyahmedhamdy/Vertex) 
 Vertex is a weather forecasting app that provieds you by up-to-date data about any place in the world
 
 - ![](https://raw.githubusercontent.com/Boodyahmedhamdy/Mealano/refs/heads/master/media/finalMedia/1.jpg) [Mealano](https://github.com/Boodyahmedhamdy/Mealano) 
