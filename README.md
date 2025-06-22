@@ -15,6 +15,9 @@ I’m a **Fresh Graduate** from **Computers and Artificial Intiligence** collage
 
 ## ✌ My Latest Projects
 
+- ![](https://github.com/OutfitGo/OutfitGo-Client/blob/main/media/screenshots/client/6.jpg?raw=true) [Vertex](https://github.com/OutfitGo/OutfitGo-Client) 
+OutfitGo is Mobile-first E commerce application mainly for chlothes, you can have the full experience as Amazon and jumia from product browsing, making purchase, authentication, search and more.
+
 - ![](https://raw.githubusercontent.com/Boodyahmedhamdy/Vertex/refs/heads/master/media/preview/1.jpg) [Vertex](https://github.com/Boodyahmedhamdy/Vertex) 
 Vertex is a weather forecasting app that provieds you by up-to-date data about any place in the world
 
