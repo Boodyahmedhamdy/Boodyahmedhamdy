@@ -2,7 +2,8 @@
 
 <!-- name and who i am start -->
 # 👋 Hi, I'm Abdelrahman Ahmed
-I’m a **Fresh Graduate** from **Computers and Artificial Intiligence** collage at Helwan University in Cairo. I am also a **Native Android Developer**
+Detail-oriented and well-organized **Android Developer** skilled in **Kotlin, Java, and Jetpack Compose**. Passionate about building clean, scalable apps using modern architecture
+and best practices.
 <!-- name and who i am end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boodyahmedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="boodyahmedhamdy" /> </p>
@@ -36,25 +37,6 @@ software courses
 
 - [Lunch Tray](https://github.com/Boodyahmedhamdy/lunchTray) a simutation for ordering food from a resturant. **Completed**
 - [Frogs App](https://github.com/Boodyahmedhamdy/FrogsApp) a simple app that makes http requests to fetch data about Frogs **Completed**
-
-
-## 👷🏼‍♂️ Currently Working On 
-
-- [Edrar Mobile](https://github.com/Boodyahmedhamdy/EdaraMobile) the android client for Edara **(project management system)**. **under Active Development**
-
-- [Fazaker](https://github.com/Boodyahmedhamdy/Fazaker) for helping family to keep track of prays (فذكر) . **under lazy development**
-
-## 🌱 I’m currently learning ..
-
-Android Development with Kotlin with Jetpack Compose
-
-<p>
-      <a display="block" href="https://github.com/Boodyahmedhamdy/Kotlin-Bootcamp" text-align="center">
-        <img src="https://github.com/Boodyahmedhamdy/Boodyahmedhamdy/blob/main/courses-banners.png?raw=true" alt="kotlin repo image" width="400" display="block">
-      </a>
-  </p>
-
-
 
 ## Skills and Experiance
 
